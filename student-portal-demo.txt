@@ -1,0 +1,7 @@
+                     Student Details
+
+Name-M.CHIDRUPA VALLI
+Course-BCA
+year-2023-2026
+roll no-2346240486
+clg-adc rjy
